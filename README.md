@@ -13,7 +13,7 @@
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="26px" /> CSS
 
 ## My projects
-Nothing yet, but I promise that something will be here soon
+`Nothing yet, but I promise that something will be here soon`
 
 ## Contacts
 ### You can contact me if you want
