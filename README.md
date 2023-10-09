@@ -13,7 +13,7 @@
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="26px" /> CSS
 
 ## My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pivozavr2003&repo=aggregation_tasks_for_sprint)](https://github.com/Pivozavr2003/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pivozavr2003&repo=aggregation_tasks_for_sprint)](https://github.com/Pivozavr2003/aggregation_tasks_for_sprint)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF75A&width=435&lines=It+ain't+much%2C+but+it's+honest+work)](https://git.io/typing-svg)
 
