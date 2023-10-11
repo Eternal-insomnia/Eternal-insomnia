@@ -29,7 +29,7 @@
   ### alexsuvorov2506@gmail.com
 
 
-## Some finny stats:
+## Some funny stats😆:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pivozavr2003&layout=compact)](https://github.com/Pivozavr2003/github-readme-stats)
 
 
