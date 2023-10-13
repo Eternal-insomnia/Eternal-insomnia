@@ -14,6 +14,7 @@
 
 ## My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pivozavr2003&repo=aggregation_tasks_for_sprint)](https://github.com/Pivozavr2003/aggregation_tasks_for_sprint)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pivozavr2003&repo=nearest-bank-branch)](https://github.com/Pivozavr2003/nearest-bank-branch)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF75A&width=435&lines=It+ain't+much%2C+but+it's+honest+work)](https://git.io/typing-svg)
 
