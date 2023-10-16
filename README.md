@@ -13,8 +13,8 @@
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="26px" /> CSS
 
 ## My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pivozavr2003&repo=aggregation_tasks_for_sprint)](https://github.com/Pivozavr2003/aggregation_tasks_for_sprint)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pivozavr2003&repo=nearest-bank-branch)](https://github.com/Pivozavr2003/nearest-bank-branch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eternal-insomnia&repo=aggregation_tasks_for_sprint)](https://github.com/Eternal-insomnia/aggregation_tasks_for_sprint)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eternal-insomnia&repo=nearest-bank-branch)](https://github.com/Eternal-insomnia/nearest-bank-branch)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF75A&width=435&lines=It+ain't+much%2C+but+it's+honest+work)](https://git.io/typing-svg)
 
@@ -31,7 +31,7 @@
 
 
 ## Some funny stats😆:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pivozavr2003&layout=compact)](https://github.com/Pivozavr2003/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eternal-insomnia&layout=compact)](https://github.com/Eternal-insomnia/github-readme-stats)
 
 
 [Telegram]: https://t.me/chucha42
