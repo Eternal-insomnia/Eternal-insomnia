@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Aleksei but everyone calls me Pivozavr
+# Hi there 👋 I'm Aleksei but everyone calls me Lyoha
 
 ## I'm a newbie web-developer
 
