@@ -1,17 +1,9 @@
 # Hi there 👋 I'm Aleksei but everyone calls me Lyoha
 
-## I'm a newbie web-developer
+## I'm a newbie software developer
 
-- 👨‍🎓 I'm studying at SPbSUT at software engineering
+- 👨‍🎓 I'm studying at PISH ITMO at Chemistry and Artificial Intelligence
 - 👷‍♂️ Just working on my projects for my portfolio
-
-## My stack
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="26px" /> HTML
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="26px" /> CSS
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" width="26px" /> JS
-- <img src="https://github.com/vuejs.png?size=40" width="26px" /> Vue
-- <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" width="26px" /> Java
-- <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png?size=48" width="26px" /> PHP
 
 ## My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eternal-insomnia&repo=Production-line-control-system)](https://github.com/Eternal-insomnia/Production-line-control-system)
@@ -24,13 +16,10 @@
 ## Contacts
 ### You can contact me if you want
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png?size=48" width="26px" /> [Telegram]
-- <img src="https://github.com/VKCOM.png?size=40" width="26px"/> [VK]
 
 ### Or you can write me an email 📧
 
   ### alexsuvorov2506@gmail.com
-  or
-  ### lelya.suvorov.03@mail.ru
 
 
 ## Some funny stats😆:
@@ -38,7 +27,6 @@
 
 
 [Telegram]: https://t.me/chucha42
-[VK]: https://vk.com/suvorov2015
 
 <!--
 **Pivozavr2003/Pivozavr2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
