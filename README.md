@@ -2,7 +2,8 @@
 
 ## I'm a software developer
 
-- 👨‍🎓 I'm studying at PISH ITMO at Chemistry and Artificial Intelligence
+- 👨‍🎓 Graduated from SPbSUT with a degree in software engineering with honors (Bachelor's Degree)
+- 👨‍🎓 I'm studying at PISH ITMO at Chemistry and Artificial Intelligence (Master's Degree)
 - 👷‍♂️ Just working on my projects for my portfolio
 
 ## My projects
