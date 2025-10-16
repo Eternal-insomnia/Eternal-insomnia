@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aleksei but everyone calls me Lyoha
 
-## I'm a newbie software developer
+## I'm a software developer
 
 - 👨‍🎓 I'm studying at PISH ITMO at Chemistry and Artificial Intelligence
 - 👷‍♂️ Just working on my projects for my portfolio
