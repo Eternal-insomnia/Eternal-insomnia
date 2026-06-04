@@ -2,8 +2,8 @@
 
 ## I'm a software developer
 
-- 👨‍🎓 Graduated from SPbSUT with a degree in software engineering with honors (Bachelor's Degree)
 - 👨‍🎓 I'm studying at PISH ITMO at Chemistry and Artificial Intelligence (Master's Degree)
+- 👨‍🎓 Graduated from SPbSUT with a degree in software engineering with honors (Bachelor's Degree)
 - 👷‍♂️ Just working on my projects for my portfolio
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF75A&width=435&lines=It+ain't+much%2C+but+it's+honest+work)](https://git.io/typing-svg)
