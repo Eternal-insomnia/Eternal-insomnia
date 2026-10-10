@@ -1,14 +1,10 @@
-# Hi there 👋 I'm Aleksei but everyone calls me Lyoha
+# Hi there 👋 I'm Aleksei
 
-## I'm a software developer
+## I'm an ML-engineer / Data Scientist
 
-- 👨‍🎓 I'm studying at PISH ITMO at Chemistry and Artificial Intelligence (Master's Degree)
+- 👷‍♂️ Working on my projects for my portfolio
+- 👨‍🎓 Studying at PISH ITMO at Chemistry and Artificial Intelligence (Master's Degree)
 - 👨‍🎓 Graduated from SPbSUT with a degree in software engineering with honors (Bachelor's Degree)
-- 👷‍♂️ Just working on my projects for my portfolio
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF75A&width=435&lines=It+ain't+much%2C+but+it's+honest+work)](https://git.io/typing-svg)
-
-<img src="https://www.deere.com/assets/images/region-4/publications/the-furrow/2022/summer-2022/farmers-find/farmer-in-field.jpg" width="800" height="500" />
 
 ## Contacts
 ### You can contact me if you want
@@ -22,7 +18,7 @@
 [Telegram]: https://t.me/chucha42
 
 <!--
-**Pivozavr2003/Pivozavr2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eternal-insomnia/Eternal-insomnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
